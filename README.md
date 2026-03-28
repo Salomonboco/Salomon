@@ -1,6 +1,6 @@
-# 👋 Salut, moi c'est Salomon Boco !
+#  Salut, moi c'est Salomon Boco !
 
-## 🚀 Développeur Full-Stack | Étudiant en 2ème année
+##  Développeur Full-Stack | Étudiant en 2ème année
 
 Passionné par le développement web et toujours à la recherche de nouveaux défis techniques. Je construis des applications fonctionnelles et élégantes en combinant créativité et code.
 
@@ -16,28 +16,28 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ---
 
-## 🎯 Ce que je recherche
+##  Ce que je recherche
 
-🤝 **Mentor** - Pour progresser et apprendre les meilleures pratiques du développement
+ **Mentor** - Pour progresser et apprendre les meilleures pratiques du développement
 
-👥 **Collaborateurs** - Pour travailler sur des projets innovants et stimulants
+ **Collaborateurs** - Pour travailler sur des projets innovants et stimulants
 
-💡 **Nouveaux défis** - Toujours ouvert à de nouvelles opportunités d'apprentissage
+ **Nouveaux défis** - Toujours ouvert à de nouvelles opportunités d'apprentissage
 
 ---
 
-## 🔥 Mes Projets
+##  Mes Projets
 
-> 🚧 En cours de publication sur GitHub. Voici un aperçu de ce sur quoi je travaille !
+>  En cours de publication sur GitHub. Voici un aperçu de ce sur quoi je travaille !
 
-### 🌐 Projets Web
+###  Projets Web
 
 **1. Site Web Vitrine** `HTML` `CSS`
 - Site web responsive et moderne
 - Design épuré et interface utilisateur intuitive
 - [🔗 Voir le code](#) _(bientôt disponible)_
 
-**2. Application Web Dynamique** `PHP` `MySQL` `Bootstrap` 🚧
+**2. Application Web Dynamique** `PHP` `MySQL` `Bootstrap` 
 - Application web full-stack avec gestion de base de données
 - Interface responsive utilisant Bootstrap
 - CRUD complet avec MySQL
@@ -48,7 +48,7 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 - Animations et fonctionnalités interactives
 - [🔗 Voir le code](#) _(bientôt disponible)_
 
-### 🐍 Projets Python
+###  Projets Python
 
 **4. Simulateur de Lancer de Dés** `Python`
 - Application console pour simuler des lancers de dés
@@ -60,7 +60,7 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 - Fonctionnalités : sauvegarde, modification, suppression de fichiers
 - Alternative minimaliste aux éditeurs complexes
 
-**6. Système de Gestion des Étudiants** `Python` `SQLite` 🚧
+**6. Système de Gestion des Étudiants** `Python` `SQLite` 
 - Application de gestion avec base de données SQLite
 - CRUD pour gérer les informations étudiantes
 - Interface utilisateur en développement
@@ -68,7 +68,7 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 ![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Salomonboco&show_icons=true&theme=radical)
 
@@ -76,7 +76,7 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ---
 
-## 🌱 En ce moment, j'apprends...
+##  En ce moment, j'apprends...
 
 - Les frameworks JavaScript modernes (React, Vue.js)
 - L'architecture MVC et les bonnes pratiques backend
@@ -85,20 +85,20 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
-- 📧 Email : [salomonboco12@gmail.com](mailto:salomonboco12@gmail.com)
-- 💼 LinkedIn : [Salomon Boco](https://www.linkedin.com/in/salomonboco)
-- 🌍 Localisation : Abidjan, Côte d'Ivoire
+-  Email : [salomonboco12@gmail.com](mailto:salomonboco12@gmail.com)
+-  LinkedIn : [Salomon Boco](https://www.linkedin.com/in/salomonboco)
+-  Localisation : Abidjan, Côte d'Ivoire
 
 ---
 
-## 💬 Citation favorite
+##  Citation favorite
 
 > *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est qu'il est mauvais."* – Cory House
 
 ---
 
-⭐️ N'hésite pas à star mes repos si tu les trouves intéressants !
+ N'hésite pas à star mes repos si tu les trouves intéressants !
 
-📬 Toujours ouvert aux discussions et aux collaborations !
+ Toujours ouvert aux discussions et aux collaborations !
