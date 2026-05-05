@@ -8,42 +8,58 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ## Ce que je recherche
 
-- **Mentor** - Pour progresser et apprendre les meilleures pratiques du développement
-- **Collaborateurs** - Pour travailler sur des projets innovants et stimulants
-- **Nouveaux défis** - Toujours ouvert à de nouvelles opportunités d'apprentissage
+**Mentor** - Pour progresser et apprendre les meilleures pratiques du développement
+
+**Collaborateurs** - Pour travailler sur des projets innovants et stimulants
+
+**Nouveaux défis** - Toujours ouvert à de nouvelles opportunités d'apprentissage
 
 ---
 
-## ✅ Projets terminés
+## Mes Projets
 
-Voici les projets que j'ai menés à terme. Cliquez sur les liens pour voir le code source !
+### Projets terminés
 
-###  Projets Python
+**1. Simulateur de Lancer de Dés** `Python`
+- Application console pour simuler des lancers de dés
+- Génération aléatoire et statistiques
+- Parfait pour les jeux de société !
 
-| Projet | Description | Technologies | Lien |
-|--------|-------------|--------------|------|
-| **Éditeur de texte simple** | Éditeur de texte avec interface graphique permettant de créer, modifier et sauvegarder des fichiers | Python, Tkinter | [🔗 Voir le code](#) |
-| **Simulateur de lancer de dés** | Simulation de lancers de dés avec affichage des résultats et statistiques | Python | [🔗 Voir le code](#) |
-| **Interface graphique Python** | Application complète avec interface utilisateur intuitive | Python, Tkinter | [🔗 Voir le code](#) |
+**2. Éditeur de Texte Simple** `Python` `Tkinter`
+- Interface graphique pour la saisie de texte
+- Fonctionnalités : sauvegarde, modification, suppression de fichiers
+- Alternative minimaliste aux éditeurs complexes
 
-###  Projets Web
+**3. Page Web Interactive** `HTML` `CSS` `JavaScript`
+- Site web dynamique avec interactions JavaScript
+- Animations et fonctionnalités interactives
+- [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/page-web-interactive)
 
-| Projet | Description | Technologies | Lien |
-|--------|-------------|--------------|------|
-| **Page web interactive** | Site web dynamique avec animations et interactions JavaScript | HTML, CSS, JavaScript | [🔗 Voir le code](#) |
-| **Site web vitrine** | Site responsive et moderne pour présenter une activité ou un service | HTML, CSS | [🔗 Voir le code](#) |
+**4. Site Web Vitrine** `HTML` `CSS`
+- Site web responsive et moderne
+- Design épuré et interface utilisateur intuitive
 
-###  Récapitulatif
+**5. Interface Graphique Python** `Python` `Tkinter`
+- Application complète avec interface utilisateur intuitive
 
-| Catégorie | Nombre de projets |
-|-----------|-------------------|
-| Python | 3 |
-| Web | 2 |
-| **Total** | **5** |
+**6. Système de Gestion des Étudiants** `Python` `SQLite`
+- Application de gestion avec base de données SQLite
+- CRUD pour gérer les informations étudiantes
+- Interface utilisateur fonctionnelle
 
 ---
 
-## 📈 Statistiques GitHub
+### Projets en cours
+
+**1. Application Web Dynamique** `PHP` `MySQL` `Bootstrap` 
+- Application web full-stack avec gestion de base de données
+- Interface responsive utilisant Bootstrap
+- CRUD complet avec MySQL
+- _En cours de développement_
+
+---
+
+## Statistiques GitHub
 
 ![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Salomonboco&show_icons=true&theme=radical)
 
@@ -51,15 +67,16 @@ Voici les projets que j'ai menés à terme. Cliquez sur les liens pour voir le c
 
 ---
 
-##  En ce moment, j'apprends...
+## En ce moment, j'apprends...
 
 - Les frameworks JavaScript modernes (React, Vue.js)
 - L'architecture MVC et les bonnes pratiques backend
 - Les bases de données relationnelles (MySQL, SQLite)
+- Le développement d'interfaces graphiques avec Python (Tkinter)
 
 ---
 
-##  Me contacter
+## Me contacter
 
 - Email : [salomonboco12@gmail.com](mailto:salomonboco12@gmail.com)
 - LinkedIn : [Salomon Boco](https://www.linkedin.com/in/salomonboco)
@@ -67,7 +84,7 @@ Voici les projets que j'ai menés à terme. Cliquez sur les liens pour voir le c
 
 ---
 
-##  Citation favorite
+## Citation favorite
 
 > *"Le code est comme l'humour. Quand tu dois l'expliquer, c'est qu'il est mauvais."* – Cory House
 
