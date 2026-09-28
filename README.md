@@ -43,20 +43,11 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 **5. Interface Graphique Python** `Python` `Tkinter`
 - Application complète avec interface utilisateur intuitive
 
-**6. Système de Gestion des Étudiants** `Python` `SQLite`
-- Application de gestion avec base de données SQLite
-- CRUD pour gérer les informations étudiantes
-- Interface utilisateur fonctionnelle
-
----
-
-### Projets en cours
-
-**1. Application Web Dynamique** `PHP` `MySQL` `Bootstrap` 
-- Application web full-stack avec gestion de base de données
-- Interface responsive utilisant Bootstrap
-- CRUD complet avec MySQL
-- _En cours de développement_
+**6. Jeu du Pendu Interactif** `Python` `CLI`
+- Application console avec gestion de la difficulté (courts, moyens, longs)
+- Suivi dynamique des lettres, profil joueur et score cumulé
+- Structures de données optimisées (`set`) et validation des saisies
+- [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/jeu_pendu)
 
 ---
 
