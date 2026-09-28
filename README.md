@@ -26,25 +26,17 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 - Parfait pour les jeux de société !
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/jeu_de)
 
-**2. Éditeur de Texte Simple** `Python` `Tkinter`
-- Interface graphique pour la saisie de texte
-- Fonctionnalités : sauvegarde, modification, suppression de fichiers
-- Alternative minimaliste aux éditeurs complexes
-
-**3. Page Web Interactive** `HTML` `CSS` `JavaScript`
+**2. Page Web Interactive** `HTML` `CSS` `JavaScript`
 - Site web dynamique avec interactions JavaScript
 - Animations et fonctionnalités interactives
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/page-web-interactive)
 
-**4. Site Web Vitrine** `HTML` `CSS`
+**3. Site Web Vitrine** `HTML` `CSS`
 - Site web responsive et moderne
 - Design épuré et interface utilisateur intuitive
 
-**5. Interface Graphique Python** `Python` `Tkinter`
-- Application complète avec interface utilisateur intuitive
-
-**6. Jeu du Pendu Interactif** `Python` `CLI`
-- Application console avec gestion de la difficulté (courts, moyens, longs)
+**4. Jeu du Pendu Interactif** `Python` `CLI`
+- Application console avec gestion de la difficulté (mots courts, moyens, longs)
 - Suivi dynamique des lettres, profil joueur et score cumulé
 - Structures de données optimisées (`set`) et validation des saisies
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/jeu_pendu)
@@ -70,9 +62,11 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ## Me contacter
 
-- Email : [salomonboco12@gmail.com](mailto:salomonboco12@gmail.com)
-- LinkedIn : [Salomon Boco](https://www.linkedin.com/in/salomonboco)
-- Localisation : Abidjan, Côte d'Ivoire
+- **GitHub** : [Salomonboco](https://github.com/Salomonboco)
+- **WhatsApp** : [Discuter sur WhatsApp](https://wa.me/+2250507774347)
+- **Email** : [salomonboco12@gmail.com](mailto:salomonboco12@gmail.com)
+- **LinkedIn** : [Salomon Boco](https://www.linkedin.com/in/salomonboco)
+- **Localisation** : Abidjan, Côte d'Ivoire
 
 ---
 
@@ -82,6 +76,6 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ---
 
- N'hésitez pas à mettre une étoile à mes dépôts si vous les trouvez intéressants !
+N'hésitez pas à mettre une étoile ⭐ à mes dépôts si vous les trouvez intéressants !
 
 Toujours ouvert aux discussions et aux collaborations !
