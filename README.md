@@ -31,9 +31,10 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 - Animations et fonctionnalités interactives
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/page-web-interactive)
 
-**3. Site Web Vitrine** `HTML` `CSS`
+**3. Page Web Vitrine** `HTML` `CSS`
 - Site web responsive et moderne
 - Design épuré et interface utilisateur intuitive
+- [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/site-web-vitrine)
 
 **4. Jeu du Pendu Interactif** `Python` `CLI`
 - Application console avec gestion de la difficulté (mots courts, moyens, longs)
@@ -54,7 +55,6 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 ## En ce moment, j'apprends...
 
 - Les frameworks JavaScript modernes (React, Vue.js)
-- L'architecture MVC et les bonnes pratiques backend
 - Les bases de données relationnelles (MySQL, SQLite)
 - Le développement d'interfaces graphiques avec Python (Tkinter)
 
