@@ -20,23 +20,17 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ### Projets terminés
 
-**1. Simulateur de Lancer de Dés** `Python`
-- Application console pour simuler des lancers de dés
-- Génération aléatoire et statistiques
-- Parfait pour les jeux de société !
-- [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/jeu_de)
-
-**2. Page Web Interactive** `HTML` `CSS` `JavaScript`
+**1. Page Web Interactive** `HTML` `CSS` `JavaScript`
 - Site web dynamique avec interactions JavaScript
 - Animations et fonctionnalités interactives
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/page-web-interactive)
 
-**3. Page Web Vitrine** `HTML` `CSS`
+**2. Page Web Vitrine** `HTML` `CSS`
 - Site web responsive et moderne
 - Design épuré et interface utilisateur intuitive
 - [🔗 Voir le code sur GitHub](https://github.com/Salomonboco/site-web-vitrine)
 
-**4. Jeu du Pendu Interactif** `Python` `CLI`
+**3. Jeu du Pendu Interactif** `Python` `CLI`
 - Application console avec gestion de la difficulté (mots courts, moyens, longs)
 - Suivi dynamique des lettres, profil joueur et score cumulé
 - Structures de données optimisées (`set`) et validation des saisies
