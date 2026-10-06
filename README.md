@@ -48,7 +48,7 @@ Passionné par le développement web et toujours à la recherche de nouveaux dé
 
 ## En ce moment, j'apprends...
 
-- Les frameworks JavaScript modernes (React, Vue.js)
+- Le développement d'application mobile avec Kotlin (Android) 
 - Les bases de données relationnelles (MySQL, SQLite)
 - Le développement d'interfaces graphiques avec Python (Tkinter)
 
