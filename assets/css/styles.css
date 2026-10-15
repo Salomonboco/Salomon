@@ -25,7 +25,7 @@ header {
     align-items: center;
     padding: 20px 10%;
     background-color: rgba(15, 23, 42, 0.95);
-    backdrop-filter: blur(8px); /* Effet flouté moderne */
+    backdrop-filter: blur(8px);
     position: fixed;
     width: 100%;
     top: 0;
@@ -77,25 +77,66 @@ h2::after {
     border-radius: 2px;
 }
 
-/* Hero Section */
+/* Hero Section (Accueil en 2 colonnes) */
 .hero {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 
-.hero h1 {
+.hero-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    width: 100%;
+}
+
+/* Colonne de gauche (Photo) */
+.hero-image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-glow {
+    position: relative;
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(56, 189, 248, 0.4) 0%, rgba(15, 23, 42, 0) 70%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #38bdf8;
+    box-shadow: 0 0 25px rgba(56, 189, 248, 0.3);
+}
+
+/* Colonne de droite (Texte) */
+.hero-text {
+    flex: 1;
+    text-align: left;
+}
+
+.hero-text h1 {
     font-size: 3rem;
     margin-bottom: 20px;
+    line-height: 1.2;
 }
 
 .highlight {
     color: #38bdf8;
 }
 
-.hero p {
+.hero-text p {
     font-size: 1.2rem;
     color: #94a3b8;
     margin-bottom: 30px;
@@ -104,7 +145,7 @@ h2::after {
 .btn-group {
     display: flex;
     gap: 15px;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .btn {
@@ -273,4 +314,26 @@ footer {
     background-color: #090d16;
     color: #64748b;
     border-top: 1px solid #1e293b;
+}
+
+/* Responsive pour mobiles et tablettes */
+@media (max-width: 900px) {
+    .hero-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero-text {
+        text-align: center;
+    }
+    .hero-text .btn-group {
+        justify-content: center;
+    }
+    .profile-glow {
+        width: 220px;
+        height: 220px;
+    }
+    .profile-img {
+        width: 200px;
+        height: 200px;
+    }
 }
