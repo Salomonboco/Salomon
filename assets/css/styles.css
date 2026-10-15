@@ -319,15 +319,39 @@ footer {
 
 /* Responsive pour mobiles et tablettes */
 @media (max-width: 900px) {
+    header {
+        flex-direction: column;
+        gap: 10px;
+        padding: 12px 5%;
+    }
+    nav ul {
+        gap: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    section {
+        padding: 130px 5% 60px 5%;
+    }
+    .hero {
+        min-height: auto;
+    }
     .hero-container {
         flex-direction: column;
         text-align: center;
+        gap: 30px;
     }
     .hero-text {
         text-align: center;
     }
+    .hero-text h1 {
+        font-size: 2rem;
+    }
+    .hero-text p {
+        font-size: 1rem;
+    }
     .hero-text .btn-group {
         justify-content: center;
+        flex-wrap: wrap;
     }
     .profile-glow {
         width: 220px;
@@ -336,5 +360,20 @@ footer {
     .profile-img {
         width: 200px;
         height: 200px;
+    }
+    h2 {
+        font-size: 1.7rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 1.2rem;
+    }
+    nav ul li a {
+        font-size: 0.9rem;
+    }
+    .hero-text h1 {
+        font-size: 1.7rem;
     }
 }
