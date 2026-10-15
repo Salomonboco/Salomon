@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Salomon Boco - Portfolio L3</title>
-    <!-- Chemin corrigé sans espace -->
     <link rel="stylesheet" href="assets/css/styles.css">
     <!-- Lien pour les icônes (FontAwesome) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -23,16 +22,25 @@
             </ul>
         </nav>
     </header>
-   
 
     <!-- Section Accueil -->
     <section id="accueil" class="hero">
-        <div class="hero-content">
-            <h1>Bonjour, je suis <span class="highlight">Salomon Boco</span></h1>
-            <p>Informaticien | Passionné par le Développement Logiciel et Web</p>
-            <div class="btn-group">
-                <a href="#projets" class="btn primary">Voir mes projets</a>
-                <a href="#contact" class="btn secondary">Me contacter</a>
+        <div class="hero-container">
+            <!-- Colonne Photo (à gauche) -->
+            <div class="hero-image-container">
+                <div class="profile-glow">
+                    <img src="image/salomonboco.jpg" alt="Photo de profil Salomon Boco" class="profile-img">
+                </div>
+            </div>
+
+            <!-- Colonne Texte (à droite) -->
+            <div class="hero-text">
+                <h1>Bonjour, je suis <span class="highlight">Salomon Boco</span></h1>
+                <p>Informaticien | Passionné par le Développement Logiciel, Web et Mobile</p>
+                <div class="btn-group">
+                    <a href="#projets" class="btn primary">Voir mes projets <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="#contact" class="btn secondary">Me contacter</a>
+                </div>
             </div>
         </div>
     </section>
