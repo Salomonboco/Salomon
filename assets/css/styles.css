@@ -1,3 +1,9 @@
+/* Smooth Scroll & décalage Header */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+}
+
 /* Styles généraux */
 * {
     margin: 0;
@@ -18,7 +24,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
-    background-color: rgba(15, 23, 42, 0.9);
+    background-color: rgba(15, 23, 42, 0.95);
+    backdrop-filter: blur(8px); /* Effet flouté moderne */
     position: fixed;
     width: 100%;
     top: 0;
@@ -105,7 +112,7 @@ h2::after {
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
-    transition: transform 0.2s;
+    transition: transform 0.2s, background-color 0.2s;
 }
 
 .btn.primary {
@@ -169,6 +176,7 @@ h2::after {
 
 .tags {
     display: flex;
+    flex-wrap: wrap;
     gap: 10px;
     margin-bottom: 20px;
 }
@@ -239,6 +247,7 @@ h2::after {
 .social-links {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
@@ -249,7 +258,7 @@ h2::after {
     border-radius: 5px;
     text-decoration: none;
     border: 1px solid #334155;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 .social-links a:hover {
