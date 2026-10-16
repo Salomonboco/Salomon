@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salomon Boco - Portfolio L3</title>
+    <title>Salomon Boco | Portfolio</title>
+    <meta name="description" content="Portfolio de Salomon Boco, développeur Full-Stack à Abidjan : projets classés par année d'études.">
     <link rel="stylesheet" href="assets/css/styles.css">
     <!-- Lien pour les icônes (FontAwesome) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -16,7 +17,7 @@
         <nav>
             <ul>
                 <li><a href="#accueil">Accueil</a></li>
-                <li><a href="#projets">Projets</a></li>
+                <li><a href="#projets">Portfolios</a></li>
                 <li><a href="#competences">Compétences</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -27,9 +28,9 @@
     <section id="accueil" class="hero">
         <div class="hero-container">
             <!-- Colonne Photo (à gauche) -->
-            <div class="hero-image-container"> 
+            <div class="hero-image-container">
                 <div class="profile-glow">
-                    <img src="img/Salomonboco.jpeg" alt="Photo de profil Salomon Boco" class="profile-img">
+                    <img src="img/photo.jpg" alt="Photo de profil Salomon Boco" class="profile-img">
                 </div>
             </div>
 
@@ -38,49 +39,44 @@
                 <h1>Bonjour, je suis <span class="highlight">Salomon Boco</span></h1>
                 <p>Informaticien | Passionné par le Développement Logiciel, Web et Mobile</p>
                 <div class="btn-group">
-                    <a href="#projets" class="btn primary">Voir mes projets <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="#projets" class="btn primary">Voir mes portfolios <i class="fa-solid fa-arrow-right"></i></a>
                     <a href="#contact" class="btn secondary">Me contacter</a>
+                    <a href="CV_Salomon_Boco.pdf" class="btn secondary" download>Télécharger mon CV <i class="fa-solid fa-download"></i></a>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Section Projets (Classés par Année) -->
+    <!-- Section Portfolios (classés par année) -->
     <section id="projets">
-        <h2>Mes Projets par Année</h2>
-        
+        <h2>Mes Portfolios par Année</h2>
+
         <!-- Bloc L2 -->
         <div class="year-group">
-            <h3 class="year-title"><i class="fa-solid fa-graduation-cap"></i> Projets de L2 (Licence 2)</h3>
+            <h3 class="year-title"><i class="fa-solid fa-graduation-cap"></i> Licence 2</h3>
             <div class="projects-grid">
                 <div class="project-card">
-                    <h3>Licence 2</h3>
-                    <p>Passionné par le développement web et toujours à la recherche de nouveaux défis techniques. Je construis des applications fonctionnelles et élégantes en combinant créativité et code.</p>
+                    <h3>Portfolio L2</h3>
+                    <p>Trois projets réalisés en deuxième année : une page web interactive, une page vitrine responsive et un jeu du pendu en Python.</p>
                     <div class="tags">
                         <span>HTML5</span>
                         <span>CSS3</span>
                         <span>JavaScript</span>
                         <span>Python</span>
                     </div>
-                    <a href="https://salomonboco.github.io/portfolio-l2/" target="_blank" class="project-link">Voir le site <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="https://salomonboco.github.io/portfolio-l2/" target="_blank" rel="noopener" class="project-link">Voir le portfolio L2 <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
 
         <!-- Bloc L3 -->
         <div class="year-group">
-            <h3 class="year-title"><i class="fa-solid fa-rocket"></i> Projets de L3 (Licence 3)</h3>
+            <h3 class="year-title"><i class="fa-solid fa-rocket"></i> Licence 3</h3>
             <div class="projects-grid">
                 <div class="project-card">
-                    <h3>Licence 3</h3>
-                    <p>Collection de scripts Python structurés (fenêtres, grilles, cadres, formulaires dynamiques) avec documentation professionnelle.</p>
-                    <div class="tags">
-                        <span>Python</span>
-                        <span>Kotlin</span>
-                        <span>Java</span>
-                        <span>PHP</span>
-                    </div>
-                    <a href="https://github.com/Salomonboco/Tkinter" target="_blank" class="project-link">Voir sur GitHub <i class="fa-solid fa-arrow-right"></i></a>
+                    <h3>Portfolio L3</h3>
+                    <p>Mes projets de troisième année, en cours de préparation.</p>
+                    <span class="bientot"><i class="fa-regular fa-clock"></i> Bientôt disponible</span>
                 </div>
             </div>
         </div>
@@ -95,7 +91,16 @@
                 <ul>
                     <li><i class="fa-brands fa-python"></i> Python</li>
                     <li><i class="fa-brands fa-js"></i> JavaScript</li>
+                    <li><i class="fa-brands fa-php"></i> PHP</li>
+                    <li><i class="fa-brands fa-android"></i> Kotlin (Android)</li>
                     <li><i class="fa-brands fa-html5"></i> HTML5 / CSS3</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Bases de données</h3>
+                <ul>
+                    <li><i class="fa-solid fa-database"></i> MySQL</li>
+                    <li><i class="fa-solid fa-database"></i> SQLite</li>
                 </ul>
             </div>
             <div class="skill-category">
@@ -103,21 +108,23 @@
                 <ul>
                     <li><i class="fa-brands fa-git-alt"></i> Git & GitHub</li>
                     <li><i class="fa-solid fa-code"></i> PyCharm / VS Code</li>
+                    <li><i class="fa-solid fa-mobile-screen-button"></i> Android Studio</li>
+                    <li><i class="fa-brands fa-bootstrap"></i> Bootstrap</li>
                     <li><i class="fa-solid fa-laptop-code"></i> Programmation Orientée Objet</li>
                 </ul>
             </div>
         </div>
     </section>
-    
+
     <!-- Section Contact -->
     <section id="contact">
         <h2>Restons en contact</h2>
         <p>Je suis à la recherche de nouvelles opportunités ou de collaborations. N'hésitez pas à m'écrire !</p>
         <div class="social-links">
-            <a href="https://github.com/Salomonboco" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
-            <a href="https://wa.me/+2250507774347" target="_blank"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+            <a href="https://github.com/Salomonboco" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
+            <a href="https://wa.me/2250507774347" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
             <a href="mailto:salomonboco12@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a>
-            <a href="https://www.linkedin.com/in/salomonboco" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+            <a href="https://www.linkedin.com/in/salomonboco" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
         </div>
     </section>
 
